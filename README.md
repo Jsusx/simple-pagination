@@ -1,3 +1,3 @@
 # Simple Pagination
 This is a simple pagination with javascript and jquery
-![alt text]("https://jsusx.com/images/pagination.jpg")
+![Pagination Example](https://github.com/Jsusx/simple-pagination/blob/main/static/img/example.jpg)
